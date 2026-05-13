@@ -4,6 +4,8 @@
 - Supervised Learning
   - Regression
     - [Linear Regression](supervised/regression/linear-regression.md)
+    - [Cost Function](supervised/regression/cost-function.md)
+    - [Gradient Descent](supervised/regression/gradient-descent.md)
   - Classification 
 - Unsupervised Learning
 
