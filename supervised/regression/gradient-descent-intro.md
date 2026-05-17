@@ -1,4 +1,4 @@
-## Gradient Descent
+## Gradient Descent Introduction
 
 **Gradient Descent Algorithm is ​a more systematic way to find the values of w and b, ​that results in the smallest possible cost, ​j of w, b.** 
 

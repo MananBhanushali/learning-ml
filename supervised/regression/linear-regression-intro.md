@@ -1,4 +1,4 @@
-# Linear Regression
+# Linear Regression Introduction
 
 Linear Regression Model just means fitting a straight line to your data. ​It's probably the most ​widely used learning algorithm in the world today.
 

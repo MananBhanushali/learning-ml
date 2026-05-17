@@ -3,9 +3,10 @@
 - [Introduction](intro.md)
 - Supervised Learning
   - Regression
-    - [Linear Regression](supervised/regression/linear-regression.md)
+    - [Linear Regression Introduction](supervised/regression/linear-regression-intro.md)
     - [Cost Function](supervised/regression/cost-function.md)
-    - [Gradient Descent](supervised/regression/gradient-descent.md)
+    - [Gradient Descent Introduction](supervised/regression/gradient-descent-intro.md)
+    - [Multiple Linear Regression and Vectorization](supervised/regression/multiple-linear-regression.md)
   - Classification 
 - Unsupervised Learning
 
