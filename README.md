@@ -7,6 +7,7 @@
     - [Cost Function](supervised/regression/cost-function.md)
     - [Gradient Descent Introduction](supervised/regression/gradient-descent-intro.md)
     - [Multiple Linear Regression and Vectorization](supervised/regression/multiple-linear-regression.md)
+    - [Checking Gradient Descent for convergence and choosing learning rate](supervised/regression/checking-gradient-descent.md)
   - Classification 
 - Unsupervised Learning
 
