@@ -2,12 +2,13 @@
 
 - [Introduction](intro.md)
 - Supervised Learning
-  - Regression
-    - [Linear Regression Introduction](supervised/regression/linear-regression-intro.md)
-    - [Cost Function](supervised/regression/cost-function.md)
-    - [Gradient Descent Introduction](supervised/regression/gradient-descent-intro.md)
-    - [Multiple Linear Regression and Vectorization](supervised/regression/multiple-linear-regression.md)
-    - [Checking Gradient Descent for convergence and choosing learning rate](supervised/regression/checking-gradient-descent.md)
+  - Linear Regression
+    - [Linear Regression Introduction](supervised/linear-regression/linear-regression-intro.md)
+    - [Cost Function](supervised/linear-regression/cost-function.md)
+    - [Gradient Descent Introduction](supervised/linear-regression/gradient-descent-intro.md)
+    - [Multiple Linear Regression and Vectorization](supervised/linear-regression/multiple-linear-regression.md)
+    - [Gradient Descent in Practice and Polynomial Regression](supervised/linear-regression/gradient-descent-in-practice.md)
+    - [Linear Regression Assignment](assignments/C1W2A1/C1_W2_Linear_Regression.ipynb)
   - Classification 
 - Unsupervised Learning
 

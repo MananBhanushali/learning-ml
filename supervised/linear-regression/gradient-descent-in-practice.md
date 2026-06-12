@@ -1,4 +1,10 @@
-# Feature Scaling, Checking Gradient Descent for Convergence and Choosing an appropriate Learning Rate
+# Gradient Descent in Practice and Polynomial Regression
+
+[Feature Scaling](#feature-scaling)  
+[Checking Gradient Descent for Convergence](#checking-gradient-descent-for-convergence)  
+[Choosing an appropriate Learning Rate](#choosing-an-appropriate-learning-rate)   
+[Feature Engineering](#feature-engineering)  
+[Polynomial Regression](#polynomial-regression) 
 
 ## Feature Scaling
 
@@ -72,3 +78,19 @@ If you ​plot the cost for a number of iterations ​and notice that the costs 
 ​Note that setting Alpha ​to be really small is meant here as ​a debugging step and a very small value of Alpha ​is not going to be the most efficient choice ​for actually training your learning algorithm. Because if the learning rate is too small, ​then gradient descents can take ​a lot of iterations to converge.
 
 >[Feature Scaling and Learning Rate](../../labs/Course%201/Week%202/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb)
+
+## Feature Engineering
+
+Creating a new feature ​is an example of what's called feature engineering, ​in which you might use your knowledge or ​intuition about the problem to design new features ​usually by transforming or ​combining the original features of ​the problem in order to make it ​easier for the learning algorithm ​to make accurate predictions.  
+​Depending on what insights you ​may have into the application, sometimes by defining new features, ​you might be able to get a much better model.
+
+## Polynomial Regression
+
+Polynomial regression lets you fit curves, ​non-linear functions, to your data.  
+​Let's say you have a housing ​data-set ​where feature x is the size in square feet. ​It doesn't look like a straight line ​fits this data-set very well. ​Then you may choose a cubic function where we ​now have x squared as well as x cubed, ​which is a somewhat better fit to ​the data because the size ​does eventually come back up as the size increases.  
+​In the case of the cubic function, ​the first feature is the size, ​the second feature is the size squared, ​and the third feature is the size cubed. **If you create features that are ​these powers like the square ​of the original features like this, ​then feature scaling becomes increasingly important.**   
+​If the size of the house ranges from say, ​1-1000 square feet, ​then the second feature, ​which is a size squared, ​will range from one to a million, ​and the third feature, ​which is size cubed, ​ranges from one to a billion.  
+
+[Feature engineering and Polynomial regression](../../labs/Course%201/Week%202/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
+
+[Linear regression with scikit-learn](../../labs/Course%201/Week%202/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
