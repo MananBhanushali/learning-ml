@@ -12,6 +12,7 @@
   - Classification and Logistic Regression 
     - [Why Linear Regression is not used for Classification](supervised/logistic-regression/problem-of-linear-regression.md)
     - [Logistic Regression Introduction](supervised/logistic-regression/logistic-regression-intro.md)
+    - [Cost Function](supervised/logistic-regression/cost-function.md)
 - Unsupervised Learning
 
 ## Tutorials and References
