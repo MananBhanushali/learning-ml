@@ -13,6 +13,9 @@
     - [Why Linear Regression is not used for Classification](supervised/logistic-regression/problem-of-linear-regression.md)
     - [Logistic Regression Introduction](supervised/logistic-regression/logistic-regression-intro.md)
     - [Cost Function](supervised/logistic-regression/cost-function.md)
+    - [Gradient Descent](supervised/logistic-regression/gradient-descent.md)
+    - [Logistic Regression Assignment](assignments/C1W3A1/C1_W3_Logistic_Regression.ipynb) 
+  - [The Problem of Overfitting and Regularization](supervised/overfitting-and-regularization.md)
 - Unsupervised Learning
 
 ## Tutorials and References
