@@ -1,4 +1,4 @@
-# Cost Function in Linear Regression
+# Cost Function in Logistic Regression
 
 ## Why Squared Error Cost Function is not used
 
