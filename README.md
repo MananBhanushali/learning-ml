@@ -16,6 +16,11 @@
     - [Gradient Descent](supervised/logistic-regression/gradient-descent.md)
     - [Logistic Regression Assignment](assignments/C1W3A1/C1_W3_Logistic_Regression.ipynb) 
   - [The Problem of Overfitting and Regularization](supervised/overfitting-and-regularization.md)
+- Neural Networks
+  - [Introduction](neural-networks/intro.md)
+  - [Tensorflow Implementation](neural-networks/tensorflow-implementation.md)
+  - [Implementing Without Tensorflow and Vectorization](neural-networks/implementing-without-tensorflow-and-vectorization.md)
+  - [Neural Networks Assignment](assignments/C2W1A1/C2_W1_Assignment.ipynb)
 - Unsupervised Learning
 
 ## Tutorials and References
