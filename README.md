@@ -21,6 +21,8 @@
   - [Tensorflow Implementation](neural-networks/tensorflow-implementation.md)
   - [Implementing Without Tensorflow and Vectorization](neural-networks/implementing-without-tensorflow-and-vectorization.md)
   - [Neural Networks Assignment](assignments/C2W1A1/C2_W1_Assignment.ipynb)
+  - [Activation Functions](neural-networks/activation-functions.md)
+  - [Multiclass Classification](neural-networks/multiclass-classification.md)
 - Unsupervised Learning
 
 ## Tutorials and References

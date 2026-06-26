@@ -46,5 +46,5 @@ Similarly, the second column element will be ( first row of first matrix * secon
 We can find the transpose using AT = A.T where A is an np.array object. 
 We can further calculate Z=AT * W by using Z = np.matmul(AT, W). This can also be alternatively written as Z = AT @ W
 
-![Implementing Matrix Multiplication in Code](image.png)
+![Implementing Matrix Multiplication in Code](../images/implementing-matrix-multiplication-in-code.png)
 

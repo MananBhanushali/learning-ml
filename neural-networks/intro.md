@@ -28,3 +28,14 @@ The middle layers are called the hidden layers and we don't see them in the trai
 Forward Propagation is the mechanism in which we predict the output by providing the input to the model. 
 
 >[Using Tensorflow and Keras](../labs/Course%202/Week%201/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+
+## Training a Neural Network
+
+Step 1 is to specify the model, ​which tells tensorflow how to compute for the inference.  
+​Step 2 compiles the model ​using a specific loss function, ​and step 3 is to train the model. 
+
+![Training a Neural Network in Tensorflow](../images/training-a-neural-network-tensorflow.png)
+
+BinaryCrossentropy is another name for logistic loss.
+
+![Loss and Cost Functions](../images/loss-and-cost-functions.png)
