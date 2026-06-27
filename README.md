@@ -23,6 +23,8 @@
   - [Neural Networks Assignment](assignments/C2W1A1/C2_W1_Assignment.ipynb)
   - [Activation Functions](neural-networks/activation-functions.md)
   - [Multiclass Classification](neural-networks/multiclass-classification.md)
+  - [Additional Concepts - Adam Algorithm and Layer Types](neural-networks/additional-concepts.md)
+  - [Multiclass Classification Assignment](assignments/C2W2A1/C2_W2_Assignment.ipynb)
 - Unsupervised Learning
 
 ## Tutorials and References

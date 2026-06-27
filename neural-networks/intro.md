@@ -25,8 +25,6 @@ The middle layers are called the hidden layers and we don't see them in the trai
 
 ![Neural Network Layers](../images/neural-networks-layers2.png)
 
-Forward Propagation is the mechanism in which we predict the output by providing the input to the model. 
-
 >[Using Tensorflow and Keras](../labs/Course%202/Week%201/C2_W1_Lab01_Neurons_and_Layers.ipynb)
 
 ## Training a Neural Network
@@ -39,3 +37,16 @@ Step 1 is to specify the model, ​which tells tensorflow how to compute for the
 BinaryCrossentropy is another name for logistic loss.
 
 ![Loss and Cost Functions](../images/loss-and-cost-functions.png)
+
+## Forward Propagation and Back Propagation
+
+Forward Propagation is the mechanism in which we predict the output by providing the input to the model.  
+The input of the current layer is the output of the previous layer and so on. These are forward passes. 
+
+Backpropagation is an algorithm that trains neural networks by reducing prediction error (cost). It works by propagating errors backward, computing gradients of the cost function and updating weights and biases to improve performance.
+
+Since computing the derivatives is a right to left calculation, i.e. backward pass. 
+
+>[Derivatives](../labs/Course%202/Week%202/optional/C2_W2_Derivatives.ipynb)
+
+>[Back Propagation](../labs/Course%202/Week%202/optional/C2_W2_Backprop.ipynb)
