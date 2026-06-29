@@ -16,6 +16,11 @@
     - [Gradient Descent](supervised/logistic-regression/gradient-descent.md)
     - [Logistic Regression Assignment](assignments/C1W3A1/C1_W3_Logistic_Regression.ipynb) 
   - [The Problem of Overfitting and Regularization](supervised/overfitting-and-regularization.md)
+  - [Evaluating and Choosing Models](supervised/evaluating-and-choosing-models.md) 
+  - [Bias and Variance](supervised/bias-and-variance.md)
+  - [Adding Data and Transfer Learning](supervised/adding-data-and-transfer-learning.md)
+  - [Skewed Datasets, Precision and Recall](supervised/skewed-datasets.md)
+  - [Additional Concepts Assignment](assignments/C2W3A1/C2_W3_Assignment.ipynb)
 - Neural Networks
   - [Introduction](neural-networks/intro.md)
   - [Tensorflow Implementation](neural-networks/tensorflow-implementation.md)
@@ -25,6 +30,7 @@
   - [Multiclass Classification](neural-networks/multiclass-classification.md)
   - [Additional Concepts - Adam Algorithm and Layer Types](neural-networks/additional-concepts.md)
   - [Multiclass Classification Assignment](assignments/C2W2A1/C2_W2_Assignment.ipynb)
+
 - Unsupervised Learning
 
 ## Tutorials and References
