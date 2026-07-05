@@ -30,6 +30,9 @@
   - [Multiclass Classification](neural-networks/multiclass-classification.md)
   - [Additional Concepts - Adam Algorithm and Layer Types](neural-networks/additional-concepts.md)
   - [Multiclass Classification Assignment](assignments/C2W2A1/C2_W2_Assignment.ipynb)
+- Decision Trees
+  - [Introduction](decision-trees/intro.md)
+  - [Decision Trees Assignment](assignments/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
 - Unsupervised Learning
 
